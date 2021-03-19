@@ -1,4 +1,7 @@
-
+/*button, .actions a, .actions a:link, .action, input[type="submit"] {
+    color: white;
+    background-color: red;
+}*/
 
 .actions a,
 .actions a:link,
@@ -15,12 +18,18 @@ button,
 
 .actions input,
 input[type="submit"],
-input,
 textarea {
     border: 1px solid;
     background-image: none;
     box-shadow: none;
     -webkit-appearance: none;
+}
+
+input {
+
+      border: 1px solid;
+    background-image: none;
+    box-shadow: none;  
 }
 
 form.search input[type="text"] {
