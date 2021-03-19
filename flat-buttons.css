@@ -25,7 +25,15 @@ input {
       border: 1px solid;
     background-image: none;
     box-shadow: none;  
+
 }
+
+.actions input[type="checkbox"]{
+        -webkit-appearance: checkbox;
+        -moz-appearance: checkbox;
+
+}
+
 
 form.search input[type="text"] {
     border-top-color: initial;
