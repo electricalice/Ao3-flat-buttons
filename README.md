@@ -6,16 +6,16 @@ It will work with most of the skins you have, it does work with reversi!
 
 This is how button looks on default skin:
 
-![](https://github.com/electricalice/ao3-flat-buttons/blob/master/img/ondefault.png)
-![](https://github.com/electricalice/ao3-flat-buttons/blob/master/img/ondefault2.png)
+![](https://github.com/electricalice/Ao3-flat-buttons/blob/main/img/ondefault.png)
+![](https://github.com/electricalice/ao3-flat-buttons/blob/main/img/ondefault2.png)
 
 This is how buttons looks on reversi:
 
-![](https://github.com/electricalice/ao3-flat-buttons/blob/master/img/onreversi.png)
+![](https://github.com/electricalice/ao3-flat-buttons/blob/main/img/onreversi.png)
 
 And this is how buttons look on Snow Blue:
 
-![](https://github.com/electricalice/ao3-flat-buttons/blob/master/img/onsnowblue.png)
+![](https://github.com/electricalice/ao3-flat-buttons/blob/main/img/onsnowblue.png)
 
 
 
